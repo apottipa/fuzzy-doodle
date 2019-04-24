@@ -1,7 +1,7 @@
 <soas:Order  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:soas="http://www.oracle.com/soasample">
 	<soas:Billing >
 		<soas:CardPaymentType>1</soas:CardPaymentType>
-		<soas:CardNum>1234123412341234</soas:CardNum>
+		<soas:CardNum>1234124412341234</soas:CardNum>
 		<soas:ExpireDate>0316</soas:ExpireDate>
 		<soas:CardName>AMEX</soas:CardName>
 		<soas:BillingAddress>
